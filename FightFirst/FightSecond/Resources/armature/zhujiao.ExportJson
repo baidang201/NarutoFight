@@ -1,0 +1,3566 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.2.0.0",
+      "version": 1.2,
+      "name": "zhujiao",
+      "bone_data": [
+        {
+          "name": "pao",
+          "parent": "",
+          "x": 0.0,
+          "y": 0.54581969976425171,
+          "z": 18,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 116.87500762939453,
+          "arrow_y": 1.666871685301885E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "pao/pao1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 81.49999,
+                  "y": 18.1249962,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "pao/pao1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 81.49999,
+                  "y": 18.1249962,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "pao/pao1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 81.49999,
+                  "y": 18.1249962,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "pao/pao1_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 81.49999,
+                  "y": 18.1249962,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "pao/pao1_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 81.49999,
+                  "y": 18.1249962,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "shuaidao",
+          "parent": "",
+          "x": 0.0,
+          "y": 1.5611004829406738,
+          "z": 17,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.578315,
+          "kY": 1.578315,
+          "arrow_x": 110.83643341064453,
+          "arrow_y": -2.5178064788633492E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "siwang/siwang1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 66.79006,
+                  "y": 16.1649361,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57831144,
+                  "kY": -1.57831132
+                }
+              ]
+            },
+            {
+              "name": "siwang/siwang1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 66.79006,
+                  "y": 16.1649361,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57831144,
+                  "kY": -1.57831144
+                }
+              ]
+            },
+            {
+              "name": "siwang/siwang1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 66.79006,
+                  "y": 16.1649361,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57831144,
+                  "kY": -1.57831144
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bishaji1",
+          "parent": "",
+          "x": 0.0,
+          "y": 3.227766752243042,
+          "z": 16,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 104.99996948242188,
+          "arrow_y": -4.1585059079807252E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "bishaji1/bishaji1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji1/bishaji1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079649
+                }
+              ]
+            },
+            {
+              "name": "bishaji1/bishaji1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079649
+                }
+              ]
+            },
+            {
+              "name": "bishaji1/bishaji1_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079649
+                }
+              ]
+            },
+            {
+              "name": "bishaji1/bishaji1_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079649
+                }
+              ]
+            },
+            {
+              "name": "bishaji1/bishaji1_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079649
+                }
+              ]
+            },
+            {
+              "name": "bishaji1/bishaji1_7.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 86.33331,
+                  "y": -0.8333435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079649,
+                  "kY": -1.57079649
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bishaji2",
+          "parent": "",
+          "x": 0.0,
+          "y": 1.5611004829406738,
+          "z": 15,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.58774388,
+          "kY": 1.58774388,
+          "arrow_x": 98.3474349975586,
+          "arrow_y": 9.9831822808482684E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "bishaji2/bishaji2_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587742
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_7.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_8.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_9.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            },
+            {
+              "name": "bishaji2/bishaji2_10.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.6114044,
+                  "y": -4.019203,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.587744,
+                  "kY": -1.587744
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bishaji3",
+          "parent": "",
+          "x": 26.0,
+          "y": 4.0611000061035156,
+          "z": 14,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 99.1666259765625,
+          "arrow_y": -2.6226922273053788E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "bishaji3/bishaji3_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_7.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_8.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_9.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_10.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_11.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "bishaji3/bishaji3_12.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.9389,
+                  "y": 24.9999847,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "beiji",
+          "parent": "",
+          "x": -5.0,
+          "y": 3.227766752243042,
+          "z": 13,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 99.166641235351562,
+          "arrow_y": -4.9674727051751688E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "daiji.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 61.6666527,
+                  "y": -5.00000763,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "beiji.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 61.6666527,
+                  "y": -5.00000763,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "siwang/siwang1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 61.6666527,
+                  "y": -5.00000763,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji1_1",
+          "parent": "",
+          "x": -35.0,
+          "y": -51.0,
+          "z": 12,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.55479765,
+          "kY": 1.55479765,
+          "arrow_x": 104.17996215820313,
+          "arrow_y": -2.8289130568737164E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji1/ptgongji1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.34407,
+                  "y": -30.5160713,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.55479693,
+                  "kY": -1.55480444
+                }
+              ]
+            },
+            {
+              "name": "ptgongji1/ptgongji1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.34407,
+                  "y": -30.5160713,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.55479693,
+                  "kY": -1.55479693
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji2_1",
+          "parent": "",
+          "x": 1.0,
+          "y": -51.0,
+          "z": 11,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.579568,
+          "kY": 1.579568,
+          "arrow_x": 95.003654479980469,
+          "arrow_y": -5.4252996051218361E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji2/ptgongji2_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.345535,
+                  "y": -37.3815842,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57956648,
+                  "kY": -1.57957029
+                }
+              ]
+            },
+            {
+              "name": "ptgongji2/ptgongji2_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.345535,
+                  "y": -37.3815842,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57956648,
+                  "kY": -1.57956648
+                }
+              ]
+            },
+            {
+              "name": "ptgongji2/ptgongji2_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.345535,
+                  "y": -37.3815842,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57956648,
+                  "kY": -1.57956648
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji3_1",
+          "parent": "",
+          "x": 0.0,
+          "y": -56.0,
+          "z": 10,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.55261648,
+          "kY": 1.55261648,
+          "arrow_x": 91.681800842285156,
+          "arrow_y": -4.4029624405084178E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji3/ptgongji3_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.98584,
+                  "y": -15.9518929,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.55261636,
+                  "kY": -1.55262208
+                }
+              ]
+            },
+            {
+              "name": "ptgongji3/ptgongji3_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.98584,
+                  "y": -15.9518929,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.55261636,
+                  "kY": -1.55261636
+                }
+              ]
+            },
+            {
+              "name": "ptgongji3/ptgongji3_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 176.98584,
+                  "y": -15.9518929,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.55261636,
+                  "kY": -1.55261636
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji4_1",
+          "parent": "",
+          "x": 17.0,
+          "y": -43.0,
+          "z": 9,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57764554,
+          "kY": 1.57764554,
+          "arrow_x": 121.66945648193359,
+          "arrow_y": -6.7018220306636067E-07,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji4/ptgongji4_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 145.3185,
+                  "y": -75.66362,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.57764757,
+                  "kY": -1.57764375
+                }
+              ]
+            },
+            {
+              "name": "ptgongji4/ptgongji4_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 145.3185,
+                  "y": -75.66362,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.57764757,
+                  "kY": -1.57764757
+                }
+              ]
+            },
+            {
+              "name": "ptgongji4/ptgongji4_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 145.3185,
+                  "y": -75.66362,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.57764757,
+                  "kY": -1.57764757
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji1_2",
+          "parent": "",
+          "x": 4.0,
+          "y": -54.0,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57886064,
+          "kY": 1.57886064,
+          "arrow_x": 103.33668518066406,
+          "arrow_y": -2.3576474632136524E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji1/ptgongji1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 178.260345,
+                  "y": -9.771194,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.57886076,
+                  "kY": -1.578853
+                }
+              ]
+            },
+            {
+              "name": "ptgongji1/ptgongji1_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 178.260345,
+                  "y": -9.771194,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.57886076,
+                  "kY": -1.57886076
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji3_2",
+          "parent": "",
+          "x": -1.0,
+          "y": -89.0,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 111.6666259765625,
+          "arrow_y": -2.3554664949188009E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji3/ptgongji3_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 129.0611,
+                  "y": -81.6666641,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "ptgongji3/ptgongji3_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 129.0611,
+                  "y": -81.6666641,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "ptgongji3/ptgongji3_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 129.0611,
+                  "y": -81.6666641,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji4_2",
+          "parent": "",
+          "x": -5.0,
+          "y": -58.0,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.55517256,
+          "kY": 1.55517256,
+          "arrow_x": 106.67966461181641,
+          "arrow_y": -2.6112520572496578E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji4/ptgongji4_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 182.1508,
+                  "y": -36.3253326,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.55517077,
+                  "kY": -1.55517066
+                }
+              ]
+            },
+            {
+              "name": "ptgongji4/ptgongji4_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 182.1508,
+                  "y": -36.3253326,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.55517077,
+                  "kY": -1.55517077
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tiaoyue",
+          "parent": "",
+          "x": 5.0,
+          "y": 2.3944337368011475,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57778919,
+          "kY": 1.57778919,
+          "arrow_x": 119.16952514648438,
+          "arrow_y": -4.0328708564629778E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "tiaoyue/tiaoyue1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 96.69925,
+                  "y": 4.32389832,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57778919,
+                  "kY": -1.57779253
+                }
+              ]
+            },
+            {
+              "name": "tiaoyue/tiaoyue1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 96.69925,
+                  "y": 4.32389832,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57778919,
+                  "kY": -1.57778919
+                }
+              ]
+            },
+            {
+              "name": "tiaoyue/tiaoyue1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 96.69925,
+                  "y": 4.32389832,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57778919,
+                  "kY": -1.57778919
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ptgongji2_2",
+          "parent": "",
+          "x": -10.0,
+          "y": -50.0,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 111.24996948242188,
+          "arrow_y": 1.8088738215737976E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "ptgongji2/ptgongji2_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 173.241623,
+                  "y": -15.16669,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "ptgongji2/ptgongji2_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 173.241623,
+                  "y": -15.16669,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "tiaoyue/tiaoyue1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 94.78018,
+                  "y": -14.3974562,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "tiaoyue/tiaoyue1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 173.241623,
+                  "y": -15.16669,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "tiaoyue/tiaoyue1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 173.241623,
+                  "y": -15.16669,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "siwang",
+          "parent": "",
+          "x": 2.0,
+          "y": 0.0,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.586924,
+          "kY": 1.586924,
+          "arrow_x": 103.34673309326172,
+          "arrow_y": -2.430892527627293E-05,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "siwang/siwang1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 67.59815,
+                  "y": 12.2810135,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.58692372,
+                  "kY": -1.58692551
+                }
+              ]
+            },
+            {
+              "name": "siwang/siwang1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 67.59815,
+                  "y": 12.2810135,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.58692372,
+                  "kY": -1.58692372
+                }
+              ]
+            },
+            {
+              "name": "siwang/siwang1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 67.59815,
+                  "y": 12.2810135,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.58692372,
+                  "kY": -1.58692372
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "zou",
+          "parent": "",
+          "x": -0.5,
+          "y": 2.873321533203125,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57079637,
+          "kY": 1.57079637,
+          "arrow_x": 129.00001525878906,
+          "arrow_y": 9.0389676188351586E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "zou/zou1_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_7.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            },
+            {
+              "name": "zou/zou1_8.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 89.0,
+                  "y": -0.5000026,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "daiji",
+          "parent": "",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "display_data": [
+            {
+              "name": "10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "daiji.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "zhujiao",
+      "mov_data": [
+        {
+          "name": "hold",
+          "dr": 1,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "daiji",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 67.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walk",
+          "dr": 41,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "zou",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "run",
+          "dr": 21,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "pao",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 1,
+                  "x": 10.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 9.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 27.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 52.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jump",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "tiaoyue",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fall",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "shuaidao",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": -38.0,
+                  "y": -18.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0237351824,
+                  "kY": -0.0237351824,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 2,
+                  "x": -38.0,
+                  "y": -18.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0237351824,
+                  "kY": -0.0237351824,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "skill_1",
+          "dr": 36,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "bishaji1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 21.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 41.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 75.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 5,
+                  "x": 8.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "skill_2",
+          "dr": 56,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "bishaji2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 50.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 7,
+                  "x": 10.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 9,
+                  "x": 20.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 9,
+                  "x": 20.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "skill_3",
+          "dr": 61,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "bishaji3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hit",
+          "dr": 11,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "beiji",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": -25.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": -25.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_pre_1",
+          "dr": 11,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji1_1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_pre_2",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji2_1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_pre_3",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji3_1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 100.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 100.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_pre_4",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji4_1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 14.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 32.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 32.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_sft_1",
+          "dr": 11,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji1_2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_sft_2",
+          "dr": 11,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji2_2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_sft_3",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji3_2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 48.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 92.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 74.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 74.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack_sft_4",
+          "dr": 11,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "ptgongji4_2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "dr": 16,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "siwang",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": -29.0,
+                  "y": -21.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": -29.0,
+                  "y": -21.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "10001",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "10002",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "10007",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "10008",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "10009",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "10010",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "10011",
+      "width": 166.0,
+      "height": 169.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_1",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_2",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_3",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_4",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_5",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_6",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji1/bishaji1_7",
+      "width": 148.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_1",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_2",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_3",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_4",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_5",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_6",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_7",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_8",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_9",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji2/bishaji2_10",
+      "width": 197.0,
+      "height": 186.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_1",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_2",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_3",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_4",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_5",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_6",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_7",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_8",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_9",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_10",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_11",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "bishaji3/bishaji3_12",
+      "width": 197.0,
+      "height": 179.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "siwang/siwang1_1",
+      "width": 154.0,
+      "height": 134.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "siwang/siwang1_2",
+      "width": 154.0,
+      "height": 134.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "siwang/siwang1_3",
+      "width": 154.0,
+      "height": 134.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "pao/pao1_1",
+      "width": 136.0,
+      "height": 164.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "pao/pao1_2",
+      "width": 136.0,
+      "height": 164.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "pao/pao1_3",
+      "width": 136.0,
+      "height": 164.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "pao/pao1_4",
+      "width": 136.0,
+      "height": 164.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "pao/pao1_5",
+      "width": 136.0,
+      "height": 164.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "tiaoyue/tiaoyue1_1",
+      "width": 166.0,
+      "height": 197.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "tiaoyue/tiaoyue1_2",
+      "width": 166.0,
+      "height": 197.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "tiaoyue/tiaoyue1_3",
+      "width": 166.0,
+      "height": 197.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "daiji",
+      "width": 172.0,
+      "height": 150.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_1",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_2",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_3",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_4",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_5",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_6",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_7",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "zou/zou1_8",
+      "width": 218.0,
+      "height": 214.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji1/ptgongji1_1",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji1/ptgongji1_2",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji1/ptgongji1_3",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji1/ptgongji1_4",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji2/ptgongji2_1",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji2/ptgongji2_2",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji2/ptgongji2_3",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji2/ptgongji2_4",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji2/ptgongji2_5",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji3/ptgongji3_1",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji3/ptgongji3_2",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji3/ptgongji3_3",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji3/ptgongji3_4",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji3/ptgongji3_5",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji3/ptgongji3_6",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji4/ptgongji4_1",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji4/ptgongji4_2",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji4/ptgongji4_3",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji4/ptgongji4_4",
+      "width": 165.0,
+      "height": 250.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "ptgongji4/ptgongji4_5",
+      "width": 240.0,
+      "height": 364.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "beiji",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "zhujiao0.plist",
+    "zhujiao1.plist"
+  ]
+}

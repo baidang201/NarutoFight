@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="4" height="1" tilewidth="568" tileheight="640">
+ <tileset firstgid="1" name="hj1" tilewidth="568" tileheight="640">
+  <image source="hj1.png" width="568" height="640"/>
+ </tileset>
+ <tileset firstgid="2" name="hj2" tilewidth="568" tileheight="640">
+  <image source="hj2.png" width="568" height="640"/>
+ </tileset>
+ <tileset firstgid="3" name="hj3" tilewidth="568" tileheight="640">
+  <image source="hj3.png" width="568" height="640"/>
+ </tileset>
+ <tileset firstgid="4" name="hj4" tilewidth="568" tileheight="640">
+  <image source="hj4.png" width="568" height="640"/>
+ </tileset>
+ <layer name="hj1" width="4" height="1">
+  <data encoding="base64" compression="zlib">
+   eJxjZEAFAAAgAAI=
+  </data>
+ </layer>
+ <layer name="hj2" width="4" height="1">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgYGJAAAAAKAAD
+  </data>
+ </layer>
+ <layer name="hj3" width="4" height="1">
+  <data encoding="base64" compression="zlib">
+   eJxjYIAAZigNAAAoAAQ=
+  </data>
+ </layer>
+ <layer name="hj4" width="4" height="1">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAAFiAGAAAgAAU=
+  </data>
+ </layer>
+</map>

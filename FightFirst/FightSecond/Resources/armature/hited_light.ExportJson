@@ -1,0 +1,672 @@
+{
+    "content_scale": 1,
+    "armature_data": [
+        {
+            "strVersion": "1.2.0.1",
+            "version": 1.201,
+            "name": "hited_light",
+            "bone_data": [
+                {
+                    "name": "hit_light",
+                    "parent": "",
+                    "x": -3.5,
+                    "y": 16.67333984375,
+                    "z": 1,
+                    "cX": 1,
+                    "cY": 1,
+                    "kX": 0,
+                    "kY": 0,
+                    "arrow_x": 0,
+                    "arrow_y": 0,
+                    "effectbyskeleton": true,
+                    "display_data": [
+                        {
+
+                        },
+                        {
+    
+                        },
+                        {
+      
+                        },
+                        {
+    
+                        },
+                        {
+                            "name": "eh001_2.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eh001_3.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "gandian_IMG00000.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "gandian_IMG00001.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "gandian_IMG00002.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "jiankan_IMG00000_new.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "jiankan_IMG00001_new.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "jiankan_IMG00002_new.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+
+                        },
+                        {
+        
+                        },
+                        {
+  
+                        },
+                        {
+   
+                        },
+                        {
+        
+                        },
+                        {
+                            "name": "huoshao_1.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "huoshao_2.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "huoshao_3.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "huoshao_4.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "huoshao_5.png",
+                            "displayType": 0,
+                            "skin_data": [
+                                {
+                                    "x": 0,
+                                    "y": 2,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "animation_data": [
+        {
+            "name": "hited_light",
+            "mov_data": [
+                {
+                    "name": "play_1",
+                    "dr": 26,
+                    "lp": false,
+                    "to": 0,
+                    "drTW": 0,
+                    "twE": 0,
+                    "sc": 1,
+                    "mov_bone_data": [
+                        {
+                            "name": "hit_light",
+                            "dl": 0,
+                            "frame_data": [
+                                {
+                                    "dI": 17,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 0,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 18,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 5,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 19,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 10,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 20,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 15,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 21,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 20,
+                                    "twE": 0,
+                                    "tweenFrame": true,
+                                    "color": {
+                                        "a": 255,
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255
+                                    }
+                                },
+                                {
+                                    "dI": 21,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 25,
+                                    "twE": 0,
+                                    "tweenFrame": true,
+                                    "color": {
+                                        "a": 0,
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "play_2",
+                    "dr": 11,
+                    "lp": false,
+                    "to": 0,
+                    "drTW": 0,
+                    "twE": 0,
+                    "sc": 1,
+                    "mov_bone_data": [
+                        {
+                            "name": "hit_light",
+                            "dl": 0,
+                            "frame_data": [
+                                {
+                                    "dI": 4,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 0,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 5,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 5,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 5,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 10,
+                                    "twE": 0,
+                                    "tweenFrame": true,
+                                    "color": {
+                                        "a": 0,
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "play_3",
+                    "dr": 16,
+                    "lp": false,
+                    "to": 0,
+                    "drTW": 0,
+                    "twE": 0,
+                    "sc": 1,
+                    "mov_bone_data": [
+                        {
+                            "name": "hit_light",
+                            "dl": 0,
+                            "frame_data": [
+                                {
+                                    "dI": 6,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 0,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 7,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 5,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 8,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 10,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 8,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 15,
+                                    "twE": 0,
+                                    "tweenFrame": true,
+                                    "color": {
+                                        "a": 0,
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "play_4",
+                    "dr": 16,
+                    "lp": false,
+                    "to": 0,
+                    "drTW": 0,
+                    "twE": 0,
+                    "sc": 1,
+                    "mov_bone_data": [
+                        {
+                            "name": "hit_light",
+                            "dl": 0,
+                            "frame_data": [
+                                {
+                                    "dI": 9,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 0,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 10,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 5,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 11,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 10,
+                                    "twE": 0,
+                                    "tweenFrame": true
+                                },
+                                {
+                                    "dI": 11,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "cX": 1,
+                                    "cY": 1,
+                                    "kX": 0,
+                                    "kY": 0,
+                                    "fi": 15,
+                                    "twE": 0,
+                                    "tweenFrame": true,
+                                    "color": {
+                                        "a": 0,
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "texture_data": [
+        {
+            "name": "eh001_2",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "eh001_3",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "gandian_IMG00000",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "gandian_IMG00001",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "gandian_IMG00002",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "jiankan_IMG00000_new",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "jiankan_IMG00001_new",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "jiankan_IMG00002_new",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "huoshao_1",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "huoshao_2",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "huoshao_3",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "huoshao_4",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        },
+        {
+            "name": "huoshao_5",
+            "width": 0,
+            "height": 0,
+            "pX": 0.5,
+            "pY": 0.5,
+            "plistFile": ""
+        }
+    ],
+    "config_file_path": [
+        "hited_light0.plist"
+    ]
+}

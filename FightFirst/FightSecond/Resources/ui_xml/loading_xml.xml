@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plist>
+<dict>
+
+  <!--正在加载 -->
+  <key>loading_now</key>  
+  <string>正在加载配置......</string>
+  <!--加载完成 -->
+  <key>loading_end</key>
+  <string>加载配置完成</string>
+
+</dict>
+</plist>

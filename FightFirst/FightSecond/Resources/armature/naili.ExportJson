@@ -1,0 +1,1168 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.2.0.1",
+      "version": 1.201,
+      "name": "naili",
+      "bone_data": [
+        {
+          "name": "Shadow",
+          "parent": "",
+          "x": 2.1968193054199219,
+          "y": 0.47524261474609375,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 3.9339065551757812E-06,
+          "arrow_y": -1.0213057066721376E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-yz1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.9415331,
+                  "y": 0.301880836,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MainBody",
+          "parent": "Shadow",
+          "x": -0.9999997615814209,
+          "y": 63.599998474121094,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 3.9935111999511719E-06,
+          "arrow_y": -4.6214263420552015E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hst2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -0.280689716,
+                  "y": -1.075882,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UpBody",
+          "parent": "MainBody",
+          "x": 0.19999992847442627,
+          "y": 16.0,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 7.0333480834960938E-06,
+          "arrow_y": -5.5751006584614515E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsj1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -3.643651,
+                  "y": -3.74255371,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeftArm",
+          "parent": "UpBody",
+          "x": -6.1999998092651367,
+          "y": -1.0,
+          "z": 14,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.10748458,
+          "kY": -2.10748458,
+          "arrow_x": 18.3847713470459,
+          "arrow_y": 5.2173818403389305E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hss1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 14.9930153,
+                  "y": -0.165111542,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 4.624669,
+                  "kY": 1.65851617
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeftBreast",
+          "parent": "UpBody",
+          "x": -4.59999942779541,
+          "y": -7.5999984741210938,
+          "z": 10,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 5.7816505432128906E-06,
+          "arrow_y": -6.6479842644184828E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsx1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.215602636,
+                  "y": -0.468475342,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RightBreast",
+          "parent": "UpBody",
+          "x": 5.1999993324279785,
+          "y": -7.8000030517578125,
+          "z": 9,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 9.7751617431640625E-06,
+          "arrow_y": 5.5709679145365953E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsx2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0156087875,
+                  "y": -0.0684738159,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Head",
+          "parent": "UpBody",
+          "x": -2.1999998092651367,
+          "y": 32.0,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 4.1127204895019531E-06,
+          "arrow_y": -7.4824492912739515E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hst1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -1.9746058,
+                  "y": -4.1796875,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mouth",
+          "parent": "Head",
+          "x": 2.9999995231628418,
+          "y": -22.200004577636719,
+          "z": 13,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 3.9339065551757812E-06,
+          "arrow_y": -1.5815894585102797E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hszb2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.3922832,
+                  "y": -0.200668335,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RightEye",
+          "parent": "Head",
+          "x": 8.3999996185302734,
+          "y": -13.800003051757813,
+          "z": 12,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 9.7155570983886719E-06,
+          "arrow_y": -3.6081473808735609E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsy2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -0.0140199661,
+                  "y": 0.2796936,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeftEye",
+          "parent": "Head",
+          "x": -3.4000000953674316,
+          "y": -13.200004577636719,
+          "z": 11,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": -1.7881393432617188E-06,
+          "arrow_y": -2.1180312614887953E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsy1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -0.806612,
+                  "y": -0.320304871,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RightArm",
+          "parent": "UpBody",
+          "x": 5.7999997138977051,
+          "y": -2.0,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.02633917,
+          "kY": -1.02633917,
+          "arrow_x": 25.484905242919922,
+          "arrow_y": 1.4948273019399494E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hss3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 14.1257248,
+                  "y": -0.6127968,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -1.02633917,
+                  "kY": 1.02633917
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dress",
+          "parent": "MainBody",
+          "x": -0.20000004768371582,
+          "y": -18.0,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 8.58306884765625E-06,
+          "arrow_y": -3.5485427360981703E-06,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsqz1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -1.5621686,
+                  "y": -10.4832878,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeftFoot",
+          "parent": "Shadow",
+          "x": -8.59999942779541,
+          "y": 9.2000007629394531,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 2.9206275939941406E-06,
+          "arrow_y": 5.2841505748801865E-07,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsxz1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -1.19921112,
+                  "y": -3.342558,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RightFoot",
+          "parent": "Shadow",
+          "x": 6.0,
+          "y": 9.4000015258789062,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 3.5762786865234375E-06,
+          "arrow_y": -2.4644532459205948E-07,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "NPC_Naili-hsxz2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 1.97857094,
+                  "y": -1.69070435,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "naili",
+      "mov_data": [
+        {
+          "name": "hold",
+          "dr": 121,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "LeftArm",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.0157589354,
+                  "kY": 0.0157589354,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.22159791,
+                  "kY": -0.22159791,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.0157589354,
+                  "kY": 0.0157589354,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "Mouth",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "RightEye",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "LeftEye",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "LeftBreast",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -2.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 80,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "RightBreast",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -2.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 80,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "Head",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "UpBody",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "MainBody",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -3.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Dress",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "LeftFoot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "RightFoot",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "RightArm",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.1327908,
+                  "kY": -0.1327908,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.04623119,
+                  "kY": 0.04623119,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.1327908,
+                  "kY": -0.1327908,
+                  "fi": 120,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "NPC_Naili-hst1",
+      "width": 40.0,
+      "height": 50.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsj1",
+      "width": 24.0,
+      "height": 25.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsx1",
+      "width": 12.0,
+      "height": 12.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsx2",
+      "width": 12.0,
+      "height": 12.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hst2",
+      "width": 14.0,
+      "height": 10.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsqz1",
+      "width": 52.0,
+      "height": 50.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsy1",
+      "width": 9.0,
+      "height": 8.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsy2",
+      "width": 7.0,
+      "height": 8.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsxz1",
+      "width": 18.0,
+      "height": 18.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsxz2",
+      "width": 23.0,
+      "height": 14.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-yz1",
+      "width": 68.0,
+      "height": 16.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hszb1",
+      "width": 6.0,
+      "height": 2.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsy3",
+      "width": 7.0,
+      "height": 4.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hszb2",
+      "width": 6.0,
+      "height": 1.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsmm1",
+      "width": 6.0,
+      "height": 2.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hsmm2",
+      "width": 6.0,
+      "height": 2.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hss3",
+      "width": 20.0,
+      "height": 26.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    },
+    {
+      "name": "NPC_Naili-hss1",
+      "width": 20.0,
+      "height": 10.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": "NPC_Naili.plist"
+    }
+  ],
+  "config_file_path": [
+    "NPC_Naili.plist"
+  ]
+}

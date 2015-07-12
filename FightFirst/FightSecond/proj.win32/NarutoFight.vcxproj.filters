@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架入口">
+      <UniqueIdentifier>{ea18b48e-31ea-47ab-8bf6-b4ed268845cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位">
+      <UniqueIdentifier>{024661e8-6034-4b4a-bc13-d77199a3a67f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\数据管理">
+      <UniqueIdentifier>{0dc28176-8708-46f8-ba6e-e3d0debcd00a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\场景">
+      <UniqueIdentifier>{5f546016-690d-49b2-a489-12bb6f645570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="公共">
+      <UniqueIdentifier>{5592ef0b-db8b-4f73-ba64-d221af807da5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\地图">
+      <UniqueIdentifier>{66a6b1e5-6c18-4bbc-b0e8-79a978e88256}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\3D世界">
+      <UniqueIdentifier>{e87f431b-66bf-4015-870a-b921c717d389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\人物">
+      <UniqueIdentifier>{0a0a6cdc-eee7-4b03-981a-1404c9b6627a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\物体">
+      <UniqueIdentifier>{753d599d-6da7-46f9-96ce-6dde9944fa45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\技能">
+      <UniqueIdentifier>{2feacfe4-86b9-45a6-a2bf-38b5012034cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\物体\箱子">
+      <UniqueIdentifier>{2a17a8e2-22ae-4624-b6ac-0d9d66ae1781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\人物\主角">
+      <UniqueIdentifier>{25ca5316-31a1-4266-8155-4eef7981bf94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\人物\敌人">
+      <UniqueIdentifier>{fd617e9c-492c-475a-aa21-64938433dacd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\技能\普通攻击">
+      <UniqueIdentifier>{ea2e101f-d2a5-43a4-a413-2189a83d6273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\物体\NPC">
+      <UniqueIdentifier>{46fdeed4-000c-42cf-a239-196861002002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\外部UI">
+      <UniqueIdentifier>{5574d92e-4228-4ed4-bb6f-408e0f62355d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\外部UI\loading层">
+      <UniqueIdentifier>{c1d2a41e-4b9e-4901-9fe5-9ee26c3856e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\外部UI\logo层">
+      <UniqueIdentifier>{5937597a-6a0d-44c0-8299-ff7ea8839c8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\单位\物体\传送门">
+      <UniqueIdentifier>{40638b41-9a13-4dd4-a88c-c8e569afbb4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\数据管理\sqlite">
+      <UniqueIdentifier>{0d3b9b5a-0a7f-400d-94b2-a16c6c435ad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\外部UI\摇杆">
+      <UniqueIdentifier>{e4560c1a-b972-4f31-858e-16f4073a4250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\人物选择界面">
+      <UniqueIdentifier>{92392ec6-7295-4f5c-8432-24853c1955d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\登录">
+      <UniqueIdentifier>{532887b8-4e08-4e7a-854f-1568d074b2cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\登录\服务器场景">
+      <UniqueIdentifier>{4b3827d9-1c58-427f-9326-b0649ce5032f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\数据管理\敌人波次管理">
+      <UniqueIdentifier>{f126d43e-5408-4dcb-84dc-dbf86b6cb24d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\数据管理\Json解析">
+      <UniqueIdentifier>{7bec8351-e559-4664-a6ed-ac6a3fbaa899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏\创建忍队界面">
+      <UniqueIdentifier>{2b834b23-d078-4234-9218-5a0758ed9f8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\publicdef\PublicDef.cpp">
+      <Filter>公共</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>框架入口</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\NFBasicUnit.cpp">
+      <Filter>游戏\单位</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\datamanager\NFDataManager.cpp">
+      <Filter>游戏\数据管理</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gamescene\NFGameScene.cpp">
+      <Filter>游戏\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gamescene\NFRocker.cpp">
+      <Filter>游戏\外部UI\摇杆</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tiledmap\NFTMXTiledMap.cpp">
+      <Filter>游戏\地图</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gamescene\NF3DWorldLayer.cpp">
+      <Filter>游戏\3D世界</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\article\NFBasicArticle.cpp">
+      <Filter>游戏\单位\物体</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\person\NFBasicPerson.cpp">
+      <Filter>游戏\单位\人物</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\skill\NFBasicSkill.cpp">
+      <Filter>游戏\单位\技能</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\article\NFBox.cpp">
+      <Filter>游戏\单位\物体\箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\person\NFEnemy.cpp">
+      <Filter>游戏\单位\人物\敌人</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\skill\NFCommonAttack.cpp">
+      <Filter>游戏\单位\技能\普通攻击</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\NFWorld3D.cpp">
+      <Filter>游戏\单位</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\person\NFProtagonist.cpp">
+      <Filter>游戏\单位\人物\主角</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\article\NFNPC.cpp">
+      <Filter>游戏\单位\物体\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFTownRewardLayer.cpp">
+      <Filter>游戏\外部UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFLoadingLayer.cpp">
+      <Filter>游戏\外部UI\loading层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFLogoScene.cpp">
+      <Filter>游戏\外部UI\logo层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFServerChangeLayer.cpp">
+      <Filter>游戏\登录\服务器场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFServerChangeScrollLayer.cpp">
+      <Filter>游戏\登录\服务器场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFTownScene.cpp">
+      <Filter>游戏\外部UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\gameunit\article\NFTransferDoor.cpp">
+      <Filter>游戏\单位\物体\传送门</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\datamanager\shell.c">
+      <Filter>游戏\数据管理\sqlite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\datamanager\sqlite3.c">
+      <Filter>游戏\数据管理\sqlite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFRoleSelectLayer.cpp">
+      <Filter>游戏\人物选择界面</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFLoginScene.cpp">
+      <Filter>游戏\登录</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\datamanager\NFEnemyWave.cpp">
+      <Filter>游戏\数据管理\敌人波次管理</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\datamanager\NFJsonTranslator.cpp">
+      <Filter>游戏\数据管理\Json解析</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\datamanager\NFServerDataManager.cpp">
+      <Filter>游戏\数据管理</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\NFCreateTeamLayer.cpp">
+      <Filter>游戏\创建忍队界面</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\publicdef\PublicDef.h">
+      <Filter>公共</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>框架入口</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\NFBasicUnit.h">
+      <Filter>游戏\单位</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\datamanager\NFDataManager.h">
+      <Filter>游戏\数据管理</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gamescene\NFGameScene.h">
+      <Filter>游戏\场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gamescene\NFRocker.h">
+      <Filter>游戏\外部UI\摇杆</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tiledmap\NFTMXTiledMap.h">
+      <Filter>游戏\地图</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gamescene\NF3DWorldLayer.h">
+      <Filter>游戏\3D世界</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\article\NFBasicArticle.h">
+      <Filter>游戏\单位\物体</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\person\NFBasicPerson.h">
+      <Filter>游戏\单位\人物</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\skill\NFBasicSkill.h">
+      <Filter>游戏\单位\技能</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\article\NFBox.h">
+      <Filter>游戏\单位\物体\箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\person\NFEnemy.h">
+      <Filter>游戏\单位\人物\敌人</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\skill\NFCommonAttack.h">
+      <Filter>游戏\单位\技能\普通攻击</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\NFWorld3D.h">
+      <Filter>游戏\单位</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\person\NFProtagonist.h">
+      <Filter>游戏\单位\人物\主角</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\article\NFNPC.h">
+      <Filter>游戏\单位\物体\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFTownRewardLayer.h">
+      <Filter>游戏\外部UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFLoadingLayer.h">
+      <Filter>游戏\外部UI\loading层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFLogoScene.h">
+      <Filter>游戏\外部UI\logo层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFServerChangeLayer.h">
+      <Filter>游戏\登录\服务器场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFServerChangeScrollLayer.h">
+      <Filter>游戏\登录\服务器场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFTownScene.h">
+      <Filter>游戏\外部UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\gameunit\article\NFTransferDoor.h">
+      <Filter>游戏\单位\物体\传送门</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\datamanager\sqlite3ext.h">
+      <Filter>游戏\数据管理\sqlite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\datamanager\sqlite3.h">
+      <Filter>游戏\数据管理\sqlite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFLoginScene.h">
+      <Filter>游戏\登录</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\datamanager\NFEnemyWave.h">
+      <Filter>游戏\数据管理\敌人波次管理</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\datamanager\NFJsonTranslator.h">
+      <Filter>游戏\数据管理\Json解析</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\datamanager\NFServerDataManager.h">
+      <Filter>游戏\数据管理</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFCreateTeamLayer.h">
+      <Filter>游戏\创建忍队界面</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\NFRoleSelectLayer.h">
+      <Filter>游戏\人物选择界面</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
